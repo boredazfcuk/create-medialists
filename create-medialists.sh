@@ -162,7 +162,7 @@ TestLock
 ScriptLock
 # Send startup notification
 DebugLog "Sending startup notification"
-SendTelegramNotification "Create Media List" "Indexing Started" "Videso, TV Shows and Music"
+SendTelegramNotification "Create Media List" "Indexing Started" "Videos, TV Shows and Music"
 # Build Videos list
 BuildVideosList
 # Build TV Shows list
