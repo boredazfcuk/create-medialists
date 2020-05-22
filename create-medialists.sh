@@ -7,7 +7,7 @@ InitialiseVariables(){
    # Password to encrypt the uploaded file with
    zip_password="MyPassword1"
 
-   # The locations of the Videos, TV Shows and Music directories. 
+   # The locations of the Videos, TV Shows and Music root directories. 
    videos_path="/storage/videos/"
    tvshows_path="/storage/tvshows/"
    music_path="/storage/music/"
