@@ -5,6 +5,7 @@ For it to work correctly, you'll need the same number of 'levels' to your media 
 
 I have my media folders organised like this:
 
+```
 /storage/
     |----- music/
     |       |----- (Artist Name)/
@@ -32,3 +33,4 @@ I have my media folders organised like this:
            |----- unwatched/
                    |----- (Movie Name 1)/
                    |----- (Movie Name 2)/
+```
